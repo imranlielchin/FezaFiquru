@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FezaFiquruEvTapsrq/1.0.0": {
+        "runtime": {
+          "FezaFiquruEvTapsrq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FezaFiquruEvTapsrq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
